@@ -1,0 +1,21 @@
+#SKETCHUP_VRAY
+127.0.0.1 licensing.sketchup.com
+127.0.0.1 services.sketchup.com
+127.0.0.1 vray.com
+127.0.0.1 vray.us
+127.0.0.1 chaosgroup.com
+127.0.0.1 my.chaosgroup.com
+127.0.0.1 auth.chaos.com
+127.0.0.1 license-server.chaosgroup.com
+127.0.0.1 update.chaosgroup.com
+127.0.0.1 telemetry.sketchup.com
+127.0.0.1 licensing.sketchup.com
+127.0.0.1 services.sketchup.com
+127.0.0.1 vray.com
+127.0.0.1 vray.us
+127.0.0.1 chaosgroup.com
+127.0.0.1 my.chaosgroup.com
+127.0.0.1 auth.chaos.com
+127.0.0.1 license-server.chaosgroup.com
+127.0.0.1 update.chaosgroup.com
+127.0.0.1 telemetry.sketchup.com
